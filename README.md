@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Sharma</h1>
 <h3 align="center">Certified Full Stack Software Developer from India</h3>
 
-<center><img width="1000" height="400 "src="https://s40424.pcdn.co/in/wp-content/uploads/2022/09/cybersecurity-650x325.jpg" alt="centered image"></center>
+<center><img width="1000" height="395 "src="https://s40424.pcdn.co/in/wp-content/uploads/2022/09/cybersecurity-650x325.jpg" alt="centered image"></center>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
